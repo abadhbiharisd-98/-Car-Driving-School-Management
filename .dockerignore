@@ -1,0 +1,7 @@
+.git
+.gitignore
+*.original
+README.md
+cdsms/
+.vscode
+.idea

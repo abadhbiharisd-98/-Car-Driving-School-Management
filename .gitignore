@@ -1,0 +1,15 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Duplicate nested extraction folder
+cdsms/
+
+# Backup files
+*.original
+
+# Logs and IDE
+*.log
+.vscode/
+.idea/
