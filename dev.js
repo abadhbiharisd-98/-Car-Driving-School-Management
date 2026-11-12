@@ -190,3 +190,4 @@ if (phpPath) {
         openBrowser(`http://localhost:${PORT}`);
     });
 }
+
