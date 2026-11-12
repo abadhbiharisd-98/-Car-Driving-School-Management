@@ -1,0 +1,21 @@
+{
+  "name": "cdsms",
+  "version": "1.0.0",
+  "description": "Online Car Driving School Management System (CDSMS) - Render & Aiven Cloud MySQL Deployment",
+  "main": "index.php",
+  "scripts": {
+    "dev": "node dev.js",
+    "start": "node dev.js",
+    "build": "echo Project is PHP / Docker based, ready for deployment.",
+    "deploy": "git push -u origin main"
+  },
+  "keywords": [
+    "php",
+    "apache",
+    "cdsms",
+    "render",
+    "aiven-mysql"
+  ],
+  "author": "abadhbiharisd-98",
+  "license": "ISC"
+}
