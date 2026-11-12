@@ -96,3 +96,4 @@ Configure these variables in your **Render Service Dashboard** (`Environment` ta
 1. Once deployed, open your live URL: `https://<your-app>.onrender.com/db_setup.php`.
 2. Check that all 5 tables (`system_info`, `users`, `package_list`, `enrollee_list`, `payment_list`) show **Ready**.
 3. Click **Admin Login** (`/admin/login.php`) and sign in with `admin` / `admin123`.
+

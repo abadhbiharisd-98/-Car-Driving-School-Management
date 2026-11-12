@@ -34,3 +34,4 @@ EXPOSE 10000
 
 # Start script
 CMD ["/var/www/html/start.sh"]
+
